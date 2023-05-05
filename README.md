@@ -59,3 +59,8 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 - Postman collection with the API methods was created 
 - Authorization token was created accessing the API and it is valid 
 
+| Task | Date  | Team member |
+|---|---|---|
+| Run functional test cases for Job submenu of Admin module | 28.04. 2023 | Alexandra Perja |
+| Run GUI test cases for Job submenu of Admin module | 02.05. 2023  | Aurel Pop |
+
