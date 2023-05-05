@@ -23,3 +23,7 @@
     1. Indented item
     2. Indented item
 4. Fourth item
+
+I just love <strong>orange HRM</strong>.
+
+Orange *HRM* project
