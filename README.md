@@ -27,3 +27,6 @@
 I just love <strong>orange HRM</strong>.
 
 Orange *HRM* project
+
+## this are the test conditions
+![Test condition](https://github.com/farkas1david/proiect-testare-manuala/blob/main/Screenshot%202023-05-05%20193909.png)
